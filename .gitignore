@@ -1,7 +1,8 @@
 #ignore sensative data
 
 CharMessenger.html
-CharMessengerData.txt
-CharUnicodeTest.txt
+CharUnicodeData.txt
+charUnicodeTest.txt
+WordCountData.txt
 
 .idea/

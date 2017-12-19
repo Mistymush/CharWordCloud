@@ -1,1 +1,0 @@
-//Script which defines char's word map.
